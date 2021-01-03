@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts"
-    url: /year-archive/
+    url: /docs/
     description: "Things I've written about"
   - title: "Categories"
     url: /categories/
