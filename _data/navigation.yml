@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://mcgregorian1.github.io/docs/_pages/about/
   - title: "Posts"
     url: /posts-archive/
     description: "Things I've written about"
